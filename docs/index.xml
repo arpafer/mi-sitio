@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Site</title>
-    <link>http://example.org/</link>
+    <link>https://arpafer.github.io/mi-sitio/</link>
     <description>Recent content on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 03 Jun 2020 19:02:15 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arpafer.github.io/mi-sitio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bienvenidos a Hugo</title>
-      <link>http://example.org/posts/bienvenidos-a-hugo/</link>
+      <link>https://arpafer.github.io/mi-sitio/posts/bienvenidos-a-hugo/</link>
       <pubDate>Wed, 03 Jun 2020 19:02:15 +0100</pubDate>
       
-      <guid>http://example.org/posts/bienvenidos-a-hugo/</guid>
+      <guid>https://arpafer.github.io/mi-sitio/posts/bienvenidos-a-hugo/</guid>
       <description>Esta es la bienvenida a este sitio web</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://arpafer.github.io/mi-sitio/posts/primer-post/</link>
       <pubDate>Wed, 03 Jun 2020 19:01:45 +0100</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://arpafer.github.io/mi-sitio/posts/primer-post/</guid>
       <description>Este es mi primer post&amp;hellip;</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>https://arpafer.github.io/mi-sitio/contacto/</link>
       <pubDate>Wed, 03 Jun 2020 18:57:05 +0100</pubDate>
       
-      <guid>http://example.org/contacto/</guid>
+      <guid>https://arpafer.github.io/mi-sitio/contacto/</guid>
       <description>Este es un sitio web creado con Hugo. ¿Te gusta?
 Seguro que encontrarás en Hugo una herramienta excelente para desarrollar sitios de contenido.
 Es super poderoso !!
