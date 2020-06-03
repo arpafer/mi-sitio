@@ -6,10 +6,20 @@
     <description>Recent content on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 03 Jun 2020 19:02:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 19:34:45 +0100</lastBuildDate>
     
 	<atom:link href="https://arpafer.github.io/mi-sitio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prueba Nueva</title>
+      <link>https://arpafer.github.io/mi-sitio/posts/prueba-nueva/</link>
+      <pubDate>Wed, 03 Jun 2020 19:34:45 +0100</pubDate>
+      
+      <guid>https://arpafer.github.io/mi-sitio/posts/prueba-nueva/</guid>
+      <description>Personalmente creo que el resultado es estupendo !!
+¿Qué os ha parecido?</description>
+    </item>
     
     <item>
       <title>Bienvenidos a Hugo</title>
